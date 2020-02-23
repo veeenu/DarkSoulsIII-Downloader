@@ -1,0 +1,11 @@
+[package]
+name = "darksouls3-downloader"
+version = "0.1.0"
+authors = ["Andrea Venuta <venutawebdesign@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dialoguer = "0.5.0"
+console = "0.9.2"
